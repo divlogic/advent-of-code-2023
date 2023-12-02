@@ -12,4 +12,5 @@ with open(Path(__file__).parents[1] / ("input.txt")) as input:
         numbers_list.append(correct_number)
 
 answer = sum(numbers_list)
+
 print(answer)
