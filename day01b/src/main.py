@@ -32,5 +32,3 @@ with open(Path(__file__).parents[1] / ("input.txt")) as input:
 answer = sum(numbers_list)
 
 print(answer)
-
-# 52844 is too high
