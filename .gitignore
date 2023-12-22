@@ -161,5 +161,4 @@ cython_debug/
 
 # Custom
 output/
-input.txt
-input.test.txt
+input*.txt
